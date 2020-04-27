@@ -1,4 +1,4 @@
-# A simple tutorial to dockerize a Python microservicen
+# A simple example of how to dockerize a Python microservice
 
 ### To build the docker image: 
 docker build -t app/echo-service:1.0 .
